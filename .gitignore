@@ -1,0 +1,6 @@
+# Ignore virtual environments
+llmvenv/
+
+# Ignore folders
+aliases/
+collections/
